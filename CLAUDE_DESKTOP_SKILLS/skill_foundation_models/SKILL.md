@@ -1,8 +1,6 @@
 ---
 name: Foundation Models Expert
 description: Experto en Apple Foundation Models Framework. Implementa IA generativa on-device con el LLM de 3B parámetros. Macros @Generable, @Guide, Tool Calling y streaming.
-version: 1.0.0
-author: Dr. Alex Mitre
 ---
 
 # Skill: Foundation Models Expert (Apple Intelligence On-Device) - Claude Desktop

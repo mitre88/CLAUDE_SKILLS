@@ -1,8 +1,6 @@
 ---
 name: BMAD Method Expert
 description: Experto en BMAD Method (Build More, Architect Dreams). Framework de agentes IA para desarrollo ágil con 12 agentes especializados, 4 fases y 34+ workflows.
-version: 1.0.0
-author: Dr. Alex Mitre
 ---
 
 # Skill: BMAD Method Expert (Claude Desktop)
