@@ -1,5 +1,5 @@
 ---
-name: Scientific Article Writer
+name: scientific-article-writer
 description: Escritor profesional de artículos científicos para revistas indexadas. Genera estudios de caso en formato APA 7ma edición, bilingüe (ES/EN), con referencias verificables 2020-2025.
 ---
 

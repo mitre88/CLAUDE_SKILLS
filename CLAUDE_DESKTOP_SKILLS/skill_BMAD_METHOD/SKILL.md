@@ -1,5 +1,5 @@
 ---
-name: BMAD Method Expert
+name: bmad-method-expert
 description: Experto en BMAD Method (Build More, Architect Dreams). Framework de agentes IA para desarrollo ágil con 12 agentes especializados, 4 fases y 34+ workflows.
 ---
 

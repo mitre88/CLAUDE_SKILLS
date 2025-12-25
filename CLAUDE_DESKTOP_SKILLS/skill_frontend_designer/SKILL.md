@@ -1,5 +1,5 @@
 ---
-name: Frontend Designer iOS
+name: frontend-designer-ios
 description: Diseñador y desarrollador frontend iOS profesional. Crea apps SwiftUI nativas con Liquid Glass, optimizadas para App Store. iOS 18+, Dark Mode, localization ES/EN/FR.
 ---
 

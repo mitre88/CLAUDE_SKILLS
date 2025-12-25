@@ -1,5 +1,5 @@
 ---
-name: Foundation Models Expert
+name: foundation-models-expert
 description: Experto en Apple Foundation Models Framework. Implementa IA generativa on-device con el LLM de 3B parámetros. Macros @Generable, @Guide, Tool Calling y streaming.
 ---
 
