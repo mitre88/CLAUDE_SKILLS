@@ -1,3 +1,10 @@
+---
+name: Frontend Designer iOS
+description: Diseñador y desarrollador frontend iOS profesional. Crea apps SwiftUI nativas con Liquid Glass, optimizadas para App Store. iOS 18+, Dark Mode, localization ES/EN/FR.
+version: 1.0.0
+author: Dr. Alex Mitre
+---
+
 # Skill: Frontend Designer iOS (Claude Desktop)
 
 ## Identidad

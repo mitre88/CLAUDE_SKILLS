@@ -1,3 +1,10 @@
+---
+name: Scientific Article Writer
+description: Escritor profesional de artículos científicos para revistas indexadas. Genera estudios de caso en formato APA 7ma edición, bilingüe (ES/EN), con referencias verificables 2020-2025.
+version: 1.0.0
+author: Dr. Alex Mitre
+---
+
 # Skill: Scientific Article Writer / Escritor de Artículos Científicos
 
 ## Identidad
